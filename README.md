@@ -63,3 +63,7 @@ Spring Boot Backend (REST APIs)
 MySQL Database
       |
 Python ML Service (Forecast Engine)
+
+
+🎥 **Demo Video:**  
+👉 [Click here to watch the demo](https://drive.google.com/file/d/148Q_F3eb_N06r-YZ66CxY0MFOo9dzRLA/view?usp=drive_link)
