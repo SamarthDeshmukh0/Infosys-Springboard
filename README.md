@@ -66,4 +66,5 @@ Python ML Service (Forecast Engine)
 
 
 ## 🎥 Demo Video
-👉 [[Watch the Project Demo](https://drive.google.com/file/d/148Q_F3eb_N06r-YZ66CxY0MFOo9dzRLA/view?usp=drive_link)]
+👉[View Project Demo](https://drive.google.com/file/d/148Q_F3eb_N06r-YZ66CxY0MFOo9dzRLA/view)
+
